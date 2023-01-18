@@ -1,6 +1,6 @@
 # Project1-Business-Projects-List
 ©Copyrights by Starcle Enterprise Inc.
-Below are the business projects in which I participated with the team at Starcle Enterprise Inc.
+Below are the collaborative commercial projects in which I participated with the team at Starcle Enterprise Inc.
 
 1. E-Commerce Online Business Website: A website where customers can order cakes and drinks in Hamilton, Ontario. Using JavaScript, PHP, MySQL, SEO, Google Analysis, etc. 
 Link: https://gosnappy.io/owa/snappy/detail/G4552/4552/m/menu_745 
