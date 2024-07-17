@@ -10,7 +10,8 @@ Link: https://gosnappy.io/owa/snappy/detail/G4552/4552/m/menu_745
 
 
 2. Cross platform Mobile Application GoAnalyst in Android and IOS: A client app to collect geolocation data, encrypted data, and store it to the user's device storage, and export it as CSV files for analysis. Using Java, Swift, Flutter, Python (FastAPI), MySQL, Azure VM, etc. Link: https://play.google.com/store/apps/details?id=com.forpakinson.goanalyst&hl=en&gl=US
-  
+  ![image](https://github.com/user-attachments/assets/bc2dadb3-23f4-47f7-a19f-36c7ba578eda)
+
 
 4. E-Commerce Business Website: A website of “Petree Brand” which sells products of cat. Using Java, Swift, Flutter, Python (FastAPI), MySQL, AZure VM, OCI Cloud. Link: https://www.epetree.com/shop/
 
